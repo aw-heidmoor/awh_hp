@@ -45,5 +45,6 @@ Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden 
 
 # Datenschutz
 
-Die Nutzung der betreffenden Webseiten ist in der Regel ohne Angabe personenbezogener Daten möglich. Bei Fragen oder Problemen sind die eigentlichen Betreiber der Webseiten zu kontaktieren. Ich benutze nur die jeweiligen Funktionen zum Hochladen von Dateien und habe auf Cookies etc. keinen Einfluss. Durch die Nutzung der Webseiten erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch die betreffenden Firmen/Einrichtungen/Personen (und Drittfirmen etc.) einverstanden.
+Die Nutzung der betreffenden Webseiten ist in der Regel ohne Angabe personenbezogener Daten möglich. Bei Fragen oder Problemen sind die eigentlichen Betreiber der Webseiten zu kontaktieren. 
+Wir benutzen nur die jeweiligen Funktionen zum Hochladen von Dateien und haben auf Cookies etc. keinen Einfluss. Durch die Nutzung der Webseiten erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch die betreffenden Firmen/Einrichtungen/Personen (und Drittfirmen etc.) einverstanden.
 
