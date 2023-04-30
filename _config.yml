@@ -70,8 +70,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aw-heidmoor"
 
-footer:
-  links:
+        #footer:
+        #  links:
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
