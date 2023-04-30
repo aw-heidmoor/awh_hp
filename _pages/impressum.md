@@ -4,16 +4,21 @@ title: "Impressum"
 ---
 
 # Angaben gemäß §5 TMG
+
 Aktive Wählergemeinschaft Heidmoor
 
 Vertreten durch
+
 Sarah-Lena Menken
 
 Kontakt
+
 Telefon 
+
 slmenken@web.de
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RSTV:
+
 Aktive Wählergemeinschaft Heidmoor
 
 # Streitschlichtung
