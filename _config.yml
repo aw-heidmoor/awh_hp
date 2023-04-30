@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 repository: aw-heidmoor/awh_hp  
-title: AWH
+title: Aktive Wählergemeinschaft Heidmoor
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Aktive Wählergemeinschaft Heidmoor.
@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aktive Wählergemeinschaft Heidmoor"
+  name   : ""
   avatar : "/assets/images/logo.png"
   bio    : ""
   links:

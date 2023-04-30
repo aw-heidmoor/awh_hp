@@ -7,7 +7,5 @@ main:
     url: /gruendungsprotokoll/
   - title: "Satzung"
     url: /satzung/
-  - title: "About"
-    url: /about/
-  - title: "Dokumente"
-    url: /dokumente/
+  - title: "Impressum"
+    url: /impressum/
