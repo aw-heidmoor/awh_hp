@@ -6,6 +6,7 @@ title: "Impressum"
 # Angaben gemäß §5 TMG
 
 **Aktive Wählergemeinschaft Heidmoor**
+
 Vertreten durch:
 Sarah-Lena Menken
 
@@ -42,4 +43,7 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
 
+# Datenschutz
+
+Die Nutzung der betreffenden Webseiten ist in der Regel ohne Angabe personenbezogener Daten möglich. Bei Fragen oder Problemen sind die eigentlichen Betreiber der Webseiten zu kontaktieren. Ich benutze nur die jeweiligen Funktionen zum Hochladen von Dateien und habe auf Cookies etc. keinen Einfluss. Durch die Nutzung der Webseiten erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch die betreffenden Firmen/Einrichtungen/Personen (und Drittfirmen etc.) einverstanden.
 
