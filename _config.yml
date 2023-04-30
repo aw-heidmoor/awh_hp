@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : "test"
   avatar : "/assets/images/logo.png"
   bio    : ""
   links:
