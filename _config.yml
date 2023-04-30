@@ -59,9 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "test"
   avatar : "/assets/images/logo.png"
-  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -69,18 +67,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aw-heidmoor"
-
-        #footer:
-        #  links:
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
 
 defaults:
   # _posts

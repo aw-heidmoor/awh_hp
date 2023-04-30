@@ -5,8 +5,7 @@ title: "Impressum"
 
 # Angaben gemäß §5 TMG
 
-## Aktive Wählergemeinschaft Heidmoor
-
+**Aktive Wählergemeinschaft Heidmoor**
 Vertreten durch:
 Sarah-Lena Menken
 
