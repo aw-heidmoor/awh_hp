@@ -14,7 +14,7 @@ Sarah-Lena Menken
 
 Telefon:
 
-E-Mail: slmenken@web.de
+E-Mail: awheidmoor@gmail.com
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RSTV:
 Aktive Wählergemeinschaft Heidmoor
